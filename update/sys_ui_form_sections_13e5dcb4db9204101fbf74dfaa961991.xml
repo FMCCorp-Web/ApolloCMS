@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="13e5dcb4db9204101fbf74dfaa961991" sys_domain="global" table="x_fmcrp_apollo_csm_support" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>runyirif</sys_created_by>
+            <sys_created_on>2020-01-09 16:50:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>97e5dcb4db9204101fbf74dfaa961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fmcrp_apollo_csm_support" name="x_fmcrp_apollo_csm_support" sys_domain="global" view="Default view">13e5dcb4db9204101fbf74dfaa961991</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_fmcrp_apollo_csm_support" sys_domain="global" view="Default view">c5e31c34db9204101fbf74dfaa9619c9</sys_ui_section>
+            <sys_updated_by>runyirif</sys_updated_by>
+            <sys_updated_on>2020-01-09 16:50:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>runyirif</sys_created_by>
+            <sys_created_on>2020-01-09 16:50:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>93e5dcb4db9204101fbf74dfaa961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fmcrp_apollo_csm_support" name="x_fmcrp_apollo_csm_support" sys_domain="global" view="Default view">13e5dcb4db9204101fbf74dfaa961991</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_fmcrp_apollo_csm_support" sys_domain="global" view="Default view">83e5dcb4db9204101fbf74dfaa961990</sys_ui_section>
+            <sys_updated_by>runyirif</sys_updated_by>
+            <sys_updated_on>2020-01-09 16:50:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_fmcrp_apollo_csm_support</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>runyirif</sys_created_by>
+            <sys_created_on>2020-01-09 16:50:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>13e5dcb4db9204101fbf74dfaa961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_fmcrp_apollo_csm_support</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Apollo CSM Portal" source="x_fmcrp_apollo_csm">fc1f1750db96c0100390d0b2ca9619f6</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Apollo CSM Portal">fc1f1750db96c0100390d0b2ca9619f6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_13e5dcb4db9204101fbf74dfaa961991</sys_update_name>
+            <sys_updated_by>runyirif</sys_updated_by>
+            <sys_updated_on>2020-01-09 16:50:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

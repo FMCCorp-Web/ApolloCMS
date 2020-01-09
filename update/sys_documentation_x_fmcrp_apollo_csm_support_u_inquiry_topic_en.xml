@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_inquiry_topic" label="Inquiry Topic" language="en" table="x_fmcrp_apollo_csm_support">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_inquiry_topic</element>
+            <help/>
+            <hint>Customer inquiry categorization</hint>
+            <label>Inquiry Topic</label>
+            <language>en</language>
+            <name>x_fmcrp_apollo_csm_support</name>
+            <plural>Inquiry Topic</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>runyirif</sys_created_by>
+            <sys_created_on>2020-01-09 16:48:40</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a165d4b4db9204101fbf74dfaa96199e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Inquiry Topic</sys_name>
+            <sys_package display_value="Apollo CSM Portal" source="x_fmcrp_apollo_csm">fc1f1750db96c0100390d0b2ca9619f6</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Apollo CSM Portal">fc1f1750db96c0100390d0b2ca9619f6</sys_scope>
+            <sys_update_name>sys_documentation_x_fmcrp_apollo_csm_support_u_inquiry_topic_en</sys_update_name>
+            <sys_updated_by>runyirif</sys_updated_by>
+            <sys_updated_on>2020-01-09 17:02:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true,ref_auto_completer=AJAXTableCompleter" extends="task" label="Apollo Customer Support" max_length="40" name="x_fmcrp_apollo_csm_support" type="collection">
+        <element attributes="edge_encryption_enabled=true" hint="Name of the customer contact for this inquiry" label="Contact" mandatory="true" max_length="255" name="u_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Customer inquiry categorization" label="Inquiry Topic" mandatory="true" max_length="40" name="u_inquiry_topic" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Problem with the app" sequence="0" value="problem_app"/>
+                <element inactive_on_update="false" label="Pest Pressure" sequence="1" value="pest_pressure"/>
+                <element inactive_on_update="false" label="Application Advice" sequence="2" value="application_advice"/>
+                <element inactive_on_update="false" label="Product Questions" sequence="3" value="product_questions"/>
+                <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
+                <element inactive_on_update="false" label="Suggestion" sequence="5" value="suggestion"/>
+            </choice>
+        </element>
+    </element>
+</database>
